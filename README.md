@@ -55,7 +55,7 @@ Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove 
 ---
 
 ## 🚀 How to Explore  
-1. 🖱️ [**[Click here to view the Tableau Dashboard](#)**  ](https://public.tableau.com/app/profile/maryam.begum/viz/MaryamBegumWealthofNationsbytheirGDP/WealthofNationsbytheirGDP)
+1. 🖱️ [**[Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/maryam.begum/viz/MaryamBegumWealthofNationsbytheirGDP/WealthofNationsbytheirGDP)**  ]
 2. 📂 Check out the Excel file and raw data in this repository for behind-the-scenes action.  
 
 ---
