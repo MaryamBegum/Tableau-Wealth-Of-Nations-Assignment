@@ -31,7 +31,7 @@ In Tableau, I conjured up a dashboard brimming with four captivating visuals:
 Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove into the *Wealth of Nations* dataset, cleaned it up 🧹, and turned raw numbers into insightful stories through stunning visualizations 📊. Using Microsoft Excel for data wrangling and Tableau for visual storytelling, I crafted an interactive dashboard that makes exploring economic data *fun and accessible*!  
 
 [Link to my Dashboard](https://public.tableau.com/app/profile/maryam.begum/viz/MaryamBegumWealthofNationsbytheirGDP/WealthofNationsbytheirGDP)
-<img src="https://github.com/user-attachments/assets/afef07c4-1d28-4413-83a0-a6a6d6bffa14" alt="Alt Text" width="500" height="400">
+![Wealth of Nations dashboard](https://github.com/user-attachments/assets/53357521-660a-413b-be95-313d89ab45b9)
 
 
 ---
