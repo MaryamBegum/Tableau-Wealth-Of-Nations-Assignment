@@ -6,7 +6,7 @@ In this project, I dove into the *Wealth of Nations* dataset, cleaned it up 🧹
 
 ## 📊 Excel Analysis
 
-- Data Cleaning: Like giving your data a spa day—removing inconsistencies, formatting, making it sparkle, and ensuring accuracy 
+- Data Cleaning: Removing inconsistencies, formatting, making it sparkle, and ensuring accuracy 
 - Data Visualisation: Created pivot tables and bar charts to summarise and visualise key metrics.
 - Advanced Sorting: Identified the top 20 highest-ranking countries for focused analysis.
 - Custom Charts: Added some flair to the visuals with colours and creative touches 
