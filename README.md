@@ -1,34 +1,31 @@
-Tableau and Excel Weath of Nations Assignment
 
-# 🌟 Wealth of Nations Dataset Analysis 📊
+# 🌍 Wealth of Nations Dataset Analysis 📊
 
-Welcome to the Wealth of Nations dataset analysis extravaganza! 🎉 In this project, I've delved into the juicy Wealth of Nations dataset to uncover all sorts of fascinating socio-economic tidbits! 🌍💰
+In this project, I dove into the *Wealth of Nations* dataset, cleaned it up 🧹, and turned raw numbers into insightful stories through stunning visualizations 📊. Using Microsoft Excel for data wrangling and Tableau for visual storytelling, I crafted an interactive dashboard to explore economic data.
 
-## 🚀 Overview
-
-Hold onto your hats because this project is all about data wizardry 🧙‍♂️ and visualization magic! 🎩✨ I've scrubbed, sorted, and sifted through the dataset in Excel, creating dazzling charts and even putting on a cloak of protection to guard our precious data. Then, like a fearless explorer, I voyaged into the mystical lands of Tableau to weave together a dashboard of epic proportions!
 
 ## 📊 Excel Analysis
 
-Behold, brave reader! In the Excel realm, I wielded my mighty spreadsheet skills to:
-
-- Cleanse the data of its impurities! 💧
-- Filter out the noise to reveal the signal! 🔍
-- Sort the chaos into harmonious order! 🔄
-- Craft magnificent charts to illuminate the path to enlightenment! 📈🌟
+- Data Cleaning: Like giving your data a spa day—removing inconsistencies, formatting, making it sparkle, and ensuring accuracy 
+- Data Visualisation: Created pivot tables and bar charts to summarise and visualise key metrics.
+- Advanced Sorting: Identified the top 20 highest-ranking countries for focused analysis.
+- Custom Charts: Added some flair to the visuals with colours and creative touches 
 
 ## 🎨 Tableau Dashboard
+- Chart Creation: Designed six unique, visually appealing visulisations, from bar charts 📊 to dual-axis plots 📈, I pushed my Tableau skills to new heights.
+- Interactivity: Enabled filtering features to make the dashboard dynamic and user-friendly for seamless exploration.
+- Dashboard Design: Focused on accessibility and aesthetics, ensuring a professional and inclusive presentation.
+
 In Tableau, I conjured up a dashboard brimming with four captivating visuals:
 
-1. **GDP vs. Smartphone Users:** Where the dance of wealth and technology unfolds! 💸📱
-2. **Life Expectancy at Birth:** A journey into the realm of mortality and vitality! ⏳🌱
-3. **Number of Smartphone Users:** Witness the ebb and flow of the smartphone tide! 🌊📱
+1. **GDP vs. Smartphone Users:** Where the dance of wealth and technology unfolds! 
+2. **Life Expectancy at Birth:** A journey into the realm of mortality and vitality! 
+3. **Number of Smartphone Users:** Witness the ebb and flow of the smartphone tide! 
 4. [Add visual 4 description]
 
 # 🌍 Wealth of Nations Dashboard: Explore Global Data Like Never Before!  
 
-## 🎯 Project Overview  
-Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove into the *Wealth of Nations* dataset, cleaned it up 🧹, and turned raw numbers into insightful stories through stunning visualizations 📊. Using Microsoft Excel for data wrangling and Tableau for visual storytelling, I crafted an interactive dashboard that makes exploring economic data *fun and accessible*!  
+
 
 [Link to my Dashboard](https://public.tableau.com/app/profile/maryam.begum/viz/MaryamBegumWealthofNationsbytheirGDP/WealthofNationsbytheirGDP)
 ![Wealth of Nations dashboard](https://github.com/user-attachments/assets/53357521-660a-413b-be95-313d89ab45b9)
