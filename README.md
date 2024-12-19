@@ -18,13 +18,19 @@ In this project, I dove into the *Wealth of Nations* dataset, cleaned it up 🧹
 
 In Tableau, I conjured up a dashboard brimming with four captivating visuals:
 
-1. **GDP vs. Smartphone Users:** Where the dance of wealth and technology unfolds! 
-2. **Life Expectancy at Birth:** A journey into the realm of mortality and vitality! 
-3. **Number of Smartphone Users:** Witness the ebb and flow of the smartphone tide! 
-4. [Add visual 4 description]
+1. **Life expectancy at Birth of Top 20 countries ranked:**
+        ![4th worksheet](https://github.com/user-attachments/assets/ceb8bf63-79db-4ae9-96e6-dd4555535736)
+ 
+2. **GDP per capita for the Top 20 countries:**
+   ![2nd worksheet](https://github.com/user-attachments/assets/7b610dae-f8d7-476d-a4c6-e4c6db3f0c5c)
+ 
+3. **Number of Smartphone users by the GDP in Top 20 countries:**
+    ![3rd worksheet](https://github.com/user-attachments/assets/e854d322-299e-44b6-8149-b82b0d3209bd)
+   
+4. **Life Expectancy Rates by the GDP of Top 20 countries:**          ![1st worksheet](https://github.com/user-attachments/assets/8627cf64-4d99-4f49-aed7-bc64f479284c)
 
-# 🌍 Wealth of Nations Dashboard: Explore Global Data Like Never Before!  
 
+# 
 
 
 [Link to my Dashboard](https://public.tableau.com/app/profile/maryam.begum/viz/MaryamBegumWealthofNationsbytheirGDP/WealthofNationsbytheirGDP)
